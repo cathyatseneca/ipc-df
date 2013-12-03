@@ -3,3 +3,4 @@ Backyardigans;15;7
 Twinkle Twinkle Little Star;2;34
 The Wheels on the bus;2;3
 The Gummy Bear Song (long version);2;44
+We Are Young;5;10
