@@ -43,7 +43,7 @@ int main(void){
   struct Item one, two, three;
   
   set(&one, 3, 5);
-  set(&two, 2, 6);
+  set(&two, 2, 3);
   print(&one);
   print(&two);
   go(&three,&one,&two);
