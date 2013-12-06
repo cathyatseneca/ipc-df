@@ -15,3 +15,7 @@ You are welcome to come to one or both (though you are not eligible for the scav
 Practice questions:
 
 see:  
+
+http://scs.senecac.on.ca/~catherine.leung/t2b.doc
+
+This is the test I gave my class... files and structs are not here.  I will post more questions later to the wiki (there will be a url from here for that purpose)
