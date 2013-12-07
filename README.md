@@ -20,6 +20,6 @@ http://scs.senecac.on.ca/~catherine.leung/t2b.doc
 
 This is the test I gave my class... files and structs are not here.  I will post more questions later to the wiki 
 
-(see the link below for practice questions)
+(see the link below for practice questions...it is at the bottom of the page)
 
 https://github.com/cathyatseneca/ipc144-f13/wiki
